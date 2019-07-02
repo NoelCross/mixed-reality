@@ -50,7 +50,7 @@ In this first lesson, you'll learn about some of the capabilities the Mixed Real
 
 ### Import the Mixed Reality Toolkit
 
-1. Download the [Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases/download/v2.0.0-RC1/Microsoft.MixedReality.Toolkit.Unity.Foundation-v2.0.0-RC1.unitypackage) Unity package, and save it to a folder on your PC.
+1. Download the [Mixed Reality Toolkit](https://github.com/microsoft/MixedRealityToolkit-Unity/releases/download/v2.0.0-RC2.1/Microsoft.MixedReality.Toolkit.Unity.Foundation-v2.0.0-RC2.1.unitypackage) Unity package, and save it to a folder on your PC.
 
 2. Import the Mixed Reality Toolkit package by clicking on Assets>Import>Custom Package. Find the Mixed Reality Toolkit package downloaded in Step 1 and open it to begin the importing process. Please allow a few minutes for the importing process.
     ![Lesson1 Chapter2 Step2a](images/Lesson1Chapter2Step2a.JPG)
